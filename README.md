@@ -14,9 +14,6 @@
 </div>
 
 
-# Template base for WPF App
-Template base for WPF project with repository pattern.
-
 ## Features
 
 * Logger
