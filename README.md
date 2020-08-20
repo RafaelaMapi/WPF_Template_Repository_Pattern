@@ -1,0 +1,1 @@
+WPF_Template_Repository_Pattern
